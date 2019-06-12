@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ai-jam-2/static/css/main.f92d6f57.chunk.css",
-    "main.js": "/ai-jam-2/static/js/main.7e55c744.chunk.js",
-    "main.js.map": "/ai-jam-2/static/js/main.7e55c744.chunk.js.map",
-    "runtime~main.js": "/ai-jam-2/static/js/runtime~main.115f4315.js",
-    "runtime~main.js.map": "/ai-jam-2/static/js/runtime~main.115f4315.js.map",
-    "static/js/2.26b148ec.chunk.js": "/ai-jam-2/static/js/2.26b148ec.chunk.js",
-    "static/js/2.26b148ec.chunk.js.map": "/ai-jam-2/static/js/2.26b148ec.chunk.js.map",
-    "index.html": "/ai-jam-2/index.html",
-    "precache-manifest.611c06fafd9128cdcf7227d9e7e44981.js": "/ai-jam-2/precache-manifest.611c06fafd9128cdcf7227d9e7e44981.js",
-    "service-worker.js": "/ai-jam-2/service-worker.js",
-    "static/css/main.f92d6f57.chunk.css.map": "/ai-jam-2/static/css/main.f92d6f57.chunk.css.map"
+    "main.css": "/Ai-Jam-2/static/css/main.f92d6f57.chunk.css",
+    "main.js": "/Ai-Jam-2/static/js/main.5ba46275.chunk.js",
+    "main.js.map": "/Ai-Jam-2/static/js/main.5ba46275.chunk.js.map",
+    "runtime~main.js": "/Ai-Jam-2/static/js/runtime~main.9620b52a.js",
+    "runtime~main.js.map": "/Ai-Jam-2/static/js/runtime~main.9620b52a.js.map",
+    "static/js/2.26b148ec.chunk.js": "/Ai-Jam-2/static/js/2.26b148ec.chunk.js",
+    "static/js/2.26b148ec.chunk.js.map": "/Ai-Jam-2/static/js/2.26b148ec.chunk.js.map",
+    "index.html": "/Ai-Jam-2/index.html",
+    "precache-manifest.535e1b8f7362fbcb2afd374777983e33.js": "/Ai-Jam-2/precache-manifest.535e1b8f7362fbcb2afd374777983e33.js",
+    "service-worker.js": "/Ai-Jam-2/service-worker.js",
+    "static/css/main.f92d6f57.chunk.css.map": "/Ai-Jam-2/static/css/main.f92d6f57.chunk.css.map"
   }
 }
